@@ -1,0 +1,13 @@
+{
+  "name": "node-log-visualizer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express":    "3.4.0",
+    "swig":       "1.1.0",
+    "swig-extra": "git://github.com/paularmstrong/swig-extras.git"
+  }
+}
